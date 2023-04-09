@@ -14,6 +14,7 @@
 		26A147BC29E2DBD8005CC7F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26A147BA29E2DBD8005CC7F5 /* LaunchScreen.storyboard */; };
 		26A147C429E2DC2F005CC7F5 /* PreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A147C329E2DC2F005CC7F5 /* PreviewView.swift */; };
 		26A147C729E2DF4E005CC7F5 /* PhotoCaptureModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A147C629E2DF4E005CC7F5 /* PhotoCaptureModule.swift */; };
+		26A147C929E2F071005CC7F5 /* CustomCameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A147C829E2F071005CC7F5 /* CustomCameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		26A147BD29E2DBD8005CC7F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		26A147C329E2DC2F005CC7F5 /* PreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewView.swift; sourceTree = "<group>"; };
 		26A147C629E2DF4E005CC7F5 /* PhotoCaptureModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCaptureModule.swift; sourceTree = "<group>"; };
+		26A147C829E2F071005CC7F5 /* CustomCameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				26A147AF29E2DBD6005CC7F5 /* AppDelegate.swift */,
 				26A147B129E2DBD6005CC7F5 /* SceneDelegate.swift */,
 				26A147B329E2DBD6005CC7F5 /* ViewController.swift */,
+				26A147C829E2F071005CC7F5 /* CustomCameraViewController.swift */,
 				26A147C529E2DF1A005CC7F5 /* Module */,
 				26A147B829E2DBD8005CC7F5 /* Assets.xcassets */,
 				26A147BA29E2DBD8005CC7F5 /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26A147C929E2F071005CC7F5 /* CustomCameraViewController.swift in Sources */,
 				26A147C729E2DF4E005CC7F5 /* PhotoCaptureModule.swift in Sources */,
 				26A147B429E2DBD6005CC7F5 /* ViewController.swift in Sources */,
 				26A147C429E2DC2F005CC7F5 /* PreviewView.swift in Sources */,
